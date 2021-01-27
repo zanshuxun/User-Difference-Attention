@@ -6,9 +6,14 @@ Implementation of our paper "UDA: A User-Difference Attention for Group Recommen
 
 ## Getting Started
 
+## About
 
+## Related Projects
 
-## Contact
+I also contribute to these open-source projects to facilitate the research community:
 
-
+- [DeepCTR](https://github.com/shenweichen/DeepCTR) 
+- [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
+- [Attentive-Group-Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation)
+- [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)
 
